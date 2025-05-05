@@ -1,2 +1,2 @@
-# easybook-app-build
-Repository used to build &amp; deploy easybook app
+# clubora-app-build
+Repository used to build &amp; deploy clubora app
